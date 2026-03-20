@@ -1,0 +1,23 @@
+export const nameBand = 'ROCÍO DÚRCAL';
+export let nameSongs = [
+	"AMOR ETERNO", /*1*/
+	"SOMBRAS... NADA MÁS", /*2*/
+	"COMO TU MUJER", /*3*/
+	"YA TE OLVIDÉ", /*4*/
+	"COSTUMBRES", /*5*/
+	"CÓMO HAN PASADO LOS AÑOS", /*6*/
+	"FUE UN PLACER CONOCERTE", /*7*/
+	"EL DESTINO", /*8*/
+	"ME GUSTAS MUCHO", /*9*/
+	"DIFERENTES", /*10*/
+	"JAMÁS TE PROMETÍ UN JARDÍN DE ROSAS", /*11*/
+	"UNA ORACIÓN", /*12*/
+	"NO SIRVO PARA ESTAR SIN TI", /*13*/
+	"PORQUE TE QUIERO", /*14*/
+	"DÉJAME VIVIR", /*15*/
+	"ASI SON LOS HOMBRES", /*16*/
+	"Y NOS DIERON LAS DIEZ", /*17*/
+	"FUE TAN POCO TU CARIÑO", /*18*/
+	"QUE EL MUNDO RUEDE", /*19*/
+	"LA GATA BAJO LA LLUVIA", /*20*/
+]
